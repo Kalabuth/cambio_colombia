@@ -1,4 +1,3 @@
-````markdown
 #  Django REST API – CMS Editorial para Cambio Colombia
 
 Proyecto desarrollado con Django y Django REST Framework para gestionar artículos, redactores y suscripciones en un sistema editorial tipo CMS.
